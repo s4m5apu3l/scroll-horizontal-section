@@ -1,15 +1,5 @@
 * {
-    padding: 0;
-    margin: 0;
-    list-style: none;
-    border: none;
     font-family: "Geologica", sans-serif;
-}
-
-*,
-::before,
-::after {
-    box-sizing: border-box;
 }
 
 body {
@@ -131,7 +121,7 @@ body {
                 .item-img {
                     position: relative;
                     height: 40rem;
-                    width: 100%;
+                    margin: 0 auto;
                     padding: 1.875rem;
                     /* img {
                         height: 100%;
