@@ -6,7 +6,7 @@ $(document).ready(function () {
         // navigationPosition: "left",
         // navigationTooltips: ["01", "02", "03", "04", "05"],
         // showActiveTooltip: true,
-        anchors: ["section1", "section2"],
+        anchors: ["section1", "section2", "section3"],
         parallaxOptions: { type: "reveal", percentage: 62, property: "translate" },
         // credits: { enabled: false, label: 'Made with fullPage.js', position: 'right' },
         afterLoad: () => {
